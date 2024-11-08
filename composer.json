@@ -10,7 +10,7 @@
             "homepage": "http://author.com"
         }
     ],
-    "minimum-stability": "beta",
+    "minimum-stability": "stable",
     "homepage": "https://github.com/nicotc/datatable",
     "keywords": ["Laravel", "Datatable"],
     "require": {
